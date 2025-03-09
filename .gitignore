@@ -1,0 +1,4 @@
+echo "*.csv" >> .gitignore
+echo "*.pcap" >> .gitignore
+echo "*.zip" >> .gitignore
+
